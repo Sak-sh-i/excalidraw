@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,WADS,CACT,mBAAmB,CAAC;EAClB,QAAQ,EAAE,QAAQ;EAClB,cAAc,EAAE,IAAI;CACrB;;AAJH,AAME,WANS,CAMT,mBAAmB,GAAG,CAAC,CAAC;EACtB,cAAc,EAAE,GAAG;CACpB;;AARH,AAUE,WAVS,CAUT,4BAA4B,CAAC;EAC3B,IAAI,EAAE,mBAAmB;EACzB,GAAG,EAAE,mBAAmB;EACxB,KAAK,EAAE,mBAAmB;EAC1B,OAAO,EAAE,CAAC;CACX;;AAfH,AAiBE,WAjBS,CAiBT,4BAA4B,AAAA,SAAS,CAAC;EACpC,KAAK,EAAE,IAAI;CACZ;;AAGH;;;;;;;;;;;;;;EAcE",
+    "sources": [
+        "FixedSideContainer.scss"
+    ],
+    "names": [],
+    "file": "FixedSideContainer.css"
+}

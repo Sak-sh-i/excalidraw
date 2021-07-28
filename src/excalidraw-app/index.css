@@ -1,0 +1,29 @@
+.excalidraw .layer-ui__wrapper__footer-center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: auto;
+  margin-bottom: auto;
+  -webkit-margin-start: auto;
+  margin-inline-start: auto;
+}
+
+.excalidraw .encrypted-icon {
+  border-radius: var(--space-factor);
+  color: var(--icon-green-fill-color);
+  margin-top: auto;
+  margin-bottom: auto;
+  -webkit-margin-start: auto;
+  margin-inline-start: auto;
+  -webkit-margin-end: 0.6em;
+  margin-inline-end: 0.6em;
+}
+
+.excalidraw .encrypted-icon svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+/*# sourceMappingURL=index.css.map */

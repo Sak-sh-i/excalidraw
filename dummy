@@ -1,0 +1,223 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "8BTljxLaaCx4QBIcdyp4I",
+      "type": "freedraw",
+      "x": 397,
+      "y": 1103,
+      "width": 295,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 705167565,
+      "version": 47,
+      "versionNonce": 1426939757,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          9,
+          17
+        ],
+        [
+          16,
+          24
+        ],
+        [
+          22,
+          27
+        ],
+        [
+          30,
+          31
+        ],
+        [
+          36,
+          33
+        ],
+        [
+          45,
+          33
+        ],
+        [
+          52,
+          33
+        ],
+        [
+          60,
+          30
+        ],
+        [
+          64,
+          25
+        ],
+        [
+          67,
+          18
+        ],
+        [
+          68,
+          14
+        ],
+        [
+          68,
+          11
+        ],
+        [
+          68,
+          10
+        ],
+        [
+          69,
+          10
+        ],
+        [
+          70,
+          13
+        ],
+        [
+          73,
+          16
+        ],
+        [
+          78,
+          22
+        ],
+        [
+          84,
+          27
+        ],
+        [
+          89,
+          31
+        ],
+        [
+          98,
+          36
+        ],
+        [
+          112,
+          38
+        ],
+        [
+          131,
+          39
+        ],
+        [
+          151,
+          39
+        ],
+        [
+          166,
+          36
+        ],
+        [
+          174,
+          33
+        ],
+        [
+          179,
+          28
+        ],
+        [
+          180,
+          26
+        ],
+        [
+          180,
+          24
+        ],
+        [
+          179,
+          23
+        ],
+        [
+          179,
+          22
+        ],
+        [
+          180,
+          26
+        ],
+        [
+          182,
+          28
+        ],
+        [
+          187,
+          34
+        ],
+        [
+          193,
+          38
+        ],
+        [
+          205,
+          41
+        ],
+        [
+          218,
+          43
+        ],
+        [
+          238,
+          45
+        ],
+        [
+          260,
+          45
+        ],
+        [
+          277,
+          45
+        ],
+        [
+          294,
+          33
+        ],
+        [
+          295,
+          27
+        ],
+        [
+          295,
+          25
+        ],
+        [
+          295,
+          25
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}

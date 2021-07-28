@@ -1,0 +1,113 @@
+.excalidraw .library-unit {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid var(--button-gray-2);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  width: 63px;
+  height: 63px;
+}
+
+.excalidraw .library-unit__dragger {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.excalidraw .library-unit__dragger > svg {
+  -webkit-filter: var(--theme-filter);
+  filter: var(--theme-filter);
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.excalidraw .library-unit__removeFromLibrary,
+.excalidraw .library-unit__removeFromLibrary:hover,
+.excalidraw .library-unit__removeFromLibrary:active {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: none;
+  border: none;
+  color: var(--icon-fill-color);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.excalidraw .library-unit__removeFromLibrary > svg {
+  height: 16px;
+  width: 16px;
+}
+
+.excalidraw .library-unit__pulse {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-animation: library-unit__pulse-animation 1s ease-in infinite;
+  animation: library-unit__pulse-animation 1s ease-in infinite;
+}
+
+.excalidraw .library-unit__adder {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  margin-top: -10px;
+  pointer-events: none;
+}
+
+.excalidraw .library-unit__active {
+  cursor: pointer;
+}
+
+@-webkit-keyframes library-unit__pulse-animation {
+  0% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+  50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+}
+
+@keyframes library-unit__pulse-animation {
+  0% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+  50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+}
+/*# sourceMappingURL=LibraryUnit.css.map */

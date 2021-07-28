@@ -1,0 +1,19 @@
+.excalidraw .Island {
+  --padding: 0;
+  background-color: var(--island-bg-color);
+  -webkit-box-shadow: var(--shadow-island);
+  box-shadow: var(--shadow-island);
+  border-radius: 4px;
+  padding: calc(var(--padding) * var(--space-factor));
+  position: relative;
+  -webkit-transition: -webkit-box-shadow 0.5s ease-in-out;
+  transition: -webkit-box-shadow 0.5s ease-in-out;
+  transition: box-shadow 0.5s ease-in-out;
+  transition: box-shadow 0.5s ease-in-out, -webkit-box-shadow 0.5s ease-in-out;
+}
+
+.excalidraw .Island.zen-mode {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+/*# sourceMappingURL=Island.css.map */
